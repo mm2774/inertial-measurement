@@ -1,4 +1,4 @@
-# Default GitHub Page ('gh-pages' branch)
+# Inertial Measurement Unit
 
 The is the repo for the final project for ECE 3140 which contains the inertial measurement unit (IMU) using an accelerometer and magnetometer along with a visualizer. This code is integrated with previously created concurrency, scheduling, and acceleromater/i2c.
 To run, download/extract the zip, compile and flash the IMU program in 'src' to the FRDM K64F board. 
